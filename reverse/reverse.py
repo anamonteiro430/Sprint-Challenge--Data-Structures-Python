@@ -56,7 +56,7 @@ class LinkedList:
         node.next_node = prev
     
         
-        """ #Itirative method
+        """ #Iterative method
         node = self.head  #mark node given as the head
   
         while node: 
